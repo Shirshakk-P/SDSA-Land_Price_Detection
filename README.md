@@ -3,3 +3,9 @@ Project Work for the course "Spatial Data Scinece and Applications" at IISER-Bho
 
 
 
+### Contributors:
+    Anushk Naval (18014)
+    Shirshakk Purkayastha (18247)
+
+
+
